@@ -85,7 +85,7 @@ function App() {
         dengan akses mudah ke kampus dan perkotaan.
       </p>
 
-      <h3 className="price">Rp 850.000 / bulan</h3>
+      <h3 className="price">Rp 800.000 / bulan</h3>
     </section>
 
       {/* GALLERY */}
