@@ -46,13 +46,13 @@ function App() {
 
           <div className="status-card available">
             <div className="icon">🟢</div>
-            <p>4</p>
+            <p>2</p>
             <span>Available</span>
           </div>
 
           <div className="status-card occupied">
             <div className="icon">🔴</div>
-            <p>4</p>
+            <p>6</p>
             <span>Not Available</span>
           </div>
 
