@@ -45,13 +45,11 @@ function App() {
         <div className="status-container">
 
           {/* <div className="status-card available">
-            <div className="icon">🟢</div>
             <p>2</p>
             <span>Available</span>
           </div> */}
 
           <div className="status-card occupied">
-            <div className="icon">🔴</div>
             <p>Penuh !!!</p>
             <span>Not Available</span>
           </div>
